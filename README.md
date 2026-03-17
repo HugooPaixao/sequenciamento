@@ -1,3 +1,5 @@
+# Compressões Huffman e RLE
+
 A empresa de biotecnologia Poxim Tech possui um sistema de diagnóstico para doenças genéticas, comparando a sequência de DNA com genes conhecidos.
 
 A sequência de DNA é composta somente pelos símbolos A, C, G e T. Uma doença genética pode possuir vários genes associados, com sequências de tamanho entre 100 e 1000 símbolos, denotadas exclusivamente por letras maiúsculas e números com tamanho entre 4 e 8 caracteres.
