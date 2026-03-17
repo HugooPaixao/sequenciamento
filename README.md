@@ -53,6 +53,3 @@ H1N1 ->25%
 ```
 
 ---
-
-> Todas as entradas e saídas seguem rigorosamente os formatos das descrições.
-> O algoritmo foi implementado para fins acadêmicos.
