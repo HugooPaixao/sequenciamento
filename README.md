@@ -1,4 +1,4 @@
-# Compressões Huffman e RLE
+# Rabin-Karp
 
 A empresa de biotecnologia Poxim Tech possui um sistema de diagnóstico para doenças genéticas, comparando a sequência de DNA com genes conhecidos.
 
